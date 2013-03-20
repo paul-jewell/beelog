@@ -42,3 +42,4 @@ CREATE TABLE queen (
 
 \! TODO: (1) History log for hive components. When parts are added to or
 \!           removed from the hive.
+\! TODO: (2) Add relational rules to table declarations
